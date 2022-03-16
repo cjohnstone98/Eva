@@ -1,0 +1,19 @@
+AUTHOR:             Cameron A. Johnstone
+Date Created:       9/30/2021
+Date Last Updated:  9/30/2021
+
+Purpose: Create an AI based investor that utilizes live market data and public news/information from data scrapping to make better investments
+Goal: Generate $1000 a month of net revenue
+
+Objectives:
+    1) Create Polygon.io account and generate API key
+    2) link API key to program
+    3) create a machine learning algorithm using Polygon.io parameters as inputs
+    4) test algorithm using trade emulator platform
+    5) transfer program to cloud
+    6) create new investment account that allows frequent trading and deposit $500
+    7) give algorithm access to trading account
+    8) run program --> make money
+
+Updates:
+    (9/30/2021) - Folder and README file created
